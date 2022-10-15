@@ -65,6 +65,7 @@
 [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) | Session Buddy is one of the most popular session managers that allows the developers to manage their tabs by saving the open tabs as collections to be restored later. It can also recover the tabs after a crash.
 [Svg Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) | This is great for designers and developers wanting to pull SVGs from sites without having to dive into the source code.
 [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=en) | Talend API Tester makes it easy to invoke, discover and test HTTP and REST APIs.
+[Test IE](https://chrome.google.com/webstore/detail/test-ie/eldlkpeoddgbmpjlnpfblfpgodnojfjl?hl=en) | Even if most internet users prefer Chrome or any other new-age browsers, some users still use Internet Explorer or Edge. The numbers are low but still there, and as a developer, we want to reach out to as many users as possible.
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Block Ads and other annoying things on the web
 [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) | Run a heuristic evaluation on your website
 [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) | Capture the UI of some interfaces.
